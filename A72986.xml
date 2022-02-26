@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to all such as shall intend heereafter [sic] to enter the state of matrimonie godly, and agreeably to lawes. First, that they contract not with such persons as be hereafter expressed  ...</title>
+            <author>Church of England. Province of Canterbury. Archbishop (1559-1575 : Parker)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72986</idno>
+            <idno type="STC">STC 19287.3</idno>
+            <idno type="STC">ESTC S124587</idno>
+            <idno type="EEBO-CITATION">99899192</idno>
+            <idno type="PROQUEST">99899192</idno>
+            <idno type="VID">150720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1974:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to all such as shall intend heereafter [sic] to enter the state of matrimonie godly, and agreeably to lawes. First, that they contract not with such persons as be hereafter expressed  ...</title>
+                  <author>Church of England. Province of Canterbury. Archbishop (1559-1575 : Parker)</author>
+                  <author>Parker, Matthew, 1504-1575.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.). : table  </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Adams,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[c. 1600]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage (Canon law) --  Protestant Episcopal --  Early works to 1800.</term>
+               <term>Consanguinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150720:1"/>
+            <head>AN ADMONITION To all ſuch as ſhall intend heereafter to enter the ſtate of matrimonie godly, and agreeable to Lawes.</head>
+            <head type="sub">
+               <list>
+                  <item>FIrſt, that they contract not with ſuch perſons as be hereafter expreſſed, nor with any of like degrée, againſt the lawe of God, and the lawes of the Realme.</item>
+                  <item>Secondly, that they make no ſecret contracts without conſent and counſaile of their Parents or Elders, vnder whoſe authority they bee: contrary to Gods Lawes, and Mans ordinances.</item>
+                  <item>Thirdly, that they contract not anew with any other, vpon diuorſe and ſeperation made by the Iudge for a time, the lawes yet ſtanding to the contrary.</item>
+               </list>
+            </head>
+            <epigraph>
+               <q>MAriage is Honorable among all men, and the bed vndefiled: But Whoremongers and adulterers God will iudge.</q>
+               <bibl>Heb. 1.3.4.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>To auoid fornication, let euery man haue his wife; and let euery woman haue her husband: he that cannot containe, let him marry, For it is better to marry then to burne.</q>
+               <bibl>1. Cor. 7.9.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>Vnto the married I commaund; not I, but the Lord: Let not the wife depart from her husband: But if ſhee depart, let her remaine vnmarried, or be re<g ref="char:EOLhyphen"/>conciled vnto her Husband. And let not the Husband put away his Wife.</q>
+               <bibl>1. Cor. 7.10.11.</bibl>
+            </epigraph>
+            <p>
+               <table>
+                  <head>
+                     <q>
+                        <bibl>Leuitici. xviii. and xx.</bibl>
+                        <p>None ſhall come neare to any of the kindred of his fleaſh to vncouer her ſhame: I am the Lord.</p>
+                     </q>
+                  </head>
+                  <row>
+                     <cell role="label" cols="4">A man may not marry his</cell>
+                     <cell role="label" cols="4">A woman may not marry her</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus in linea recta deſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus in recta linea aſcendente</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Auia.</cell>
+                     <cell>1</cell>
+                     <cell>Grandmother.</cell>
+                     <cell>1</cell>
+                     <cell>Grandfather.</cell>
+                     <cell>Con.</cell>
+                     <cell>Auus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Aui relicta.</cell>
+                     <cell>2</cell>
+                     <cell>Grandfathers wife.</cell>
+                     <cell>2</cell>
+                     <cell>Grandmothers Husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Auae relictus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Proſocrus, vel ſocrus magna.</cell>
+                     <cell>3</cell>
+                     <cell>Wiues Grandmother.</cell>
+                     <cell>3</cell>
+                     <cell>Husbands Grandfather.</cell>
+                     <cell>Af.</cell>
+                     <cell>Proſocer, vel ſocer magnus.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus inaequalis, in linea tranſuerſa aſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>uerſali aſcendente.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Amita.</cell>
+                     <cell>4</cell>
+                     <cell>Fathers Siſter.</cell>
+                     <cell>4</cell>
+                     <cell>Fathers Brother.</cell>
+                     <cell>Con.</cell>
+                     <cell>Patruus.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Matertera.</cell>
+                     <cell>5</cell>
+                     <cell>Mothers Siſter.</cell>
+                     <cell>5</cell>
+                     <cell>Mothers Brother.</cell>
+                     <cell>Con.</cell>
+                     <cell>Auunculus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Patrui relicta.</cell>
+                     <cell>6</cell>
+                     <cell>Fathers Brothers wife.</cell>
+                     <cell>6</cell>
+                     <cell>Fathers Siſters Husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Amitae relictus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Auunculi relicta.</cell>
+                     <cell>7</cell>
+                     <cell>Mothers Brothers wife.</cell>
+                     <cell>7</cell>
+                     <cell>Mothers Siſters Husband.</cell>
+                     <cell>Af:</cell>
+                     <cell>Materterae relictus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Amita vxoris.</cell>
+                     <cell>8</cell>
+                     <cell>Wiues fathers Siſter.</cell>
+                     <cell>8</cell>
+                     <cell>Husbands Fathers brother.</cell>
+                     <cell>Af.</cell>
+                     <cell>Patruus mariti.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Matertera vxoris.</cell>
+                     <cell>9</cell>
+                     <cell>Wiues Mothers Siſter.</cell>
+                     <cell>9</cell>
+                     <cell>Husbands mothers brother.</cell>
+                     <cell>Af.</cell>
+                     <cell>Auunculus mariti.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus in linea recta aſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus in linea recta aſcendente.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Mater.</cell>
+                     <cell>10</cell>
+                     <cell>Mother.</cell>
+                     <cell>10</cell>
+                     <cell>Father.</cell>
+                     <cell>Con.</cell>
+                     <cell>Pater.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Nouerca.</cell>
+                     <cell>11</cell>
+                     <cell>Stepmother.</cell>
+                     <cell>11</cell>
+                     <cell>Stepfather.</cell>
+                     <cell>Af.</cell>
+                     <cell>Vitricus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Socrus.</cell>
+                     <cell>12</cell>
+                     <cell>Wiues mother.</cell>
+                     <cell>12</cell>
+                     <cell>Husbands Father.</cell>
+                     <cell>Af.</cell>
+                     <cell>Socer.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus in linea recta deſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus in linea recte deſcendente.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Filia.</cell>
+                     <cell>13</cell>
+                     <cell>Daughter.</cell>
+                     <cell>13</cell>
+                     <cell>Sonne.</cell>
+                     <cell>Con.</cell>
+                     <cell>Filius.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Priuigna.</cell>
+                     <cell>14</cell>
+                     <cell>Wiues Daughter.</cell>
+                     <cell>14</cell>
+                     <cell>Husbands Sonne.</cell>
+                     <cell>Af.</cell>
+                     <cell>Priuignus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Nurus.</cell>
+                     <cell>15</cell>
+                     <cell>Sonnes Wife.</cell>
+                     <cell>15</cell>
+                     <cell>Daughters Husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Gener.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus aequalis in linea tranſuerſali.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Primus gradus aequalis in linea tranſuer<g ref="char:EOLhyphen"/>ſali.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Soror.</cell>
+                     <cell>16</cell>
+                     <cell>Siſter.</cell>
+                     <cell>16</cell>
+                     <cell>Brother.</cell>
+                     <cell>Con.</cell>
+                     <cell>Frater.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Soror vxoris.</cell>
+                     <cell>17</cell>
+                     <cell>Wiues Siſter.</cell>
+                     <cell>17</cell>
+                     <cell>Husbands Brother.</cell>
+                     <cell>Af,</cell>
+                     <cell>Leuir.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Fratris relicta.</cell>
+                     <cell>18</cell>
+                     <cell>Brothers Wife.</cell>
+                     <cell>18</cell>
+                     <cell>Siſters Husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Sororis relictus.</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus in linea recta deſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus in linea recta deſcen<g ref="char:EOLhyphen"/>dente.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Neptis ex filio.</cell>
+                     <cell>19</cell>
+                     <cell>Sonnes Daughter.</cell>
+                     <cell>19</cell>
+                     <cell>Sonnes Sonne.</cell>
+                     <cell>Con.</cell>
+                     <cell>Nepos ex filio.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Neptis ex filia.</cell>
+                     <cell>20</cell>
+                     <cell>Daughters Daughter.</cell>
+                     <cell>20</cell>
+                     <cell>Daughters Sonne.</cell>
+                     <cell>Con.</cell>
+                     <cell>Nepos ex filia.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Pronurus. i. relicta nepotis ex filio.</cell>
+                     <cell>21</cell>
+                     <cell>Sonnes Sonnes wife.</cell>
+                     <cell>21</cell>
+                     <cell>Sonnes daughters husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Progener. i. relictus neptis ex filio.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Pronurus. i. relicta nepotis ex filia.</cell>
+                     <cell>22</cell>
+                     <cell>Daughters Sonnes wife.</cell>
+                     <cell>22</cell>
+                     <cell>daughters daughters huſba<g ref="char:cmbAbbrStroke">̄</g>d.</cell>
+                     <cell>Af.</cell>
+                     <cell>Progener. i. relictus neptis ex filia.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Priuigni filia.</cell>
+                     <cell>23</cell>
+                     <cell>Wiues Sonnes Daughter.</cell>
+                     <cell>23</cell>
+                     <cell>Husbands Sonnes Sonne.</cell>
+                     <cell>Af.</cell>
+                     <cell>Priuigni filius.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Priuignae filia.</cell>
+                     <cell>24</cell>
+                     <cell>Wiues daughters daughter.</cell>
+                     <cell>24</cell>
+                     <cell>Husbands daughters ſonne.</cell>
+                     <cell>Af.</cell>
+                     <cell>Priuignae filius</cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus inaequalis, in linea tranſuer<g ref="char:EOLhyphen"/>ſali deſcendente.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>uerſali deſcendente.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Neptis ex fratre.</cell>
+                     <cell>25</cell>
+                     <cell>Brothers Daughter.</cell>
+                     <cell>25</cell>
+                     <cell>Brothers Sonne.</cell>
+                     <cell>Con.</cell>
+                     <cell>Nepos ex fratre.</cell>
+                  </row>
+                  <row>
+                     <cell>Con.</cell>
+                     <cell>Neptis ex ſorore.</cell>
+                     <cell>26</cell>
+                     <cell>Siſters Daughter.</cell>
+                     <cell>26</cell>
+                     <cell>Siſters Sonne.</cell>
+                     <cell>Con.</cell>
+                     <cell>Nepos ex ſorore.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Nepotis ex fratre relicta.</cell>
+                     <cell>27</cell>
+                     <cell>Brothers Sonnes wife.</cell>
+                     <cell>27</cell>
+                     <cell>Brothers daughters huſband</cell>
+                     <cell>Af.</cell>
+                     <cell>Neptis ex fratre relictus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Nepotis ex ſorore relicta.</cell>
+                     <cell>28</cell>
+                     <cell>Siſters Sonnes wife.</cell>
+                     <cell>28</cell>
+                     <cell>Siſters daughters husband.</cell>
+                     <cell>Af.</cell>
+                     <cell>Neptis ex ſorore relictus.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Neptis vxoris ex fratre.</cell>
+                     <cell>29</cell>
+                     <cell>Wiues brothers daughter.</cell>
+                     <cell>19</cell>
+                     <cell>Husbands Brothers ſonne.</cell>
+                     <cell>Af.</cell>
+                     <cell>Leuiris filius. i. nepos mariti ex fratre.</cell>
+                  </row>
+                  <row>
+                     <cell>Af.</cell>
+                     <cell>Neptis vxoris ex ſorore.</cell>
+                     <cell>30</cell>
+                     <cell>Wiues Siſters daughters.</cell>
+                     <cell>30</cell>
+                     <cell>Husbands Siſters Sonne.</cell>
+                     <cell>Af.</cell>
+                     <cell>Gloris filius. i. nepos mariti ex ſorore.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <list>
+                  <item>1 IT is to be noted, that thoſe perſons which be in the direct line aſcendent and deſcendent, cannot marry together, although they be neuer ſo farre a ſunder in degrée.</item>
+                  <item>2 It is to be noted, that Conſanguinitie and affinitie (letting and diſſoluing Matrimonie) is contracted as well in them, and by them which be of kindred by the one ſide, as in and by them which be of kindred by both ſides.</item>
+                  <item>3 Item, that by the Lawes, Conſanguinitie and Affinitie (letting and diſſol<g ref="char:EOLhyphen"/>uing Matrimonie) is contracted as well by vnlawfull companie of man and woman, as by vnlawfull marriage.</item>
+                  <item>4 Item, in contracting betwixt perſons doubtfull, which be not expreſſed in this Table, It is alwaies ſure, firſt to conſult with learned men in the Lawes to vnderſtand what is lawfull, what is honeſt and expedient, before the fini<g ref="char:EOLhyphen"/>ſhing of their Contracts.</item>
+                  <item>5 Item, that noe Parſone, Vicar, or Curat, ſhall ſolemnize Matrimonie out of his, or their Cure, or pariſh Church or Chappell: and ſhall not ſolemnize the ſame in priuate houſes, nor lawleſſe or exempt Churches, vnder the paines of the Lawe, forbidding the ſame. And that the Curate haue their Certificates, when the parties dwell indiuers Pariſhes.</item>
+                  <item>6 Item, the bandes of matrimonie ought to be openly denounced in the Church by the Miniſter, thrée ſeuerall Sundaies or Feſtiuall dayes, to the intent, that who will or can aleadge any impediment, may be heard, and that ſtay may be made till further tryall, if any exception be made there againſt it, vpon ſufficient caution.</item>
+                  <item>7 Item, who ſhall malitiouſly obiect a friuolous impediment againſt a law<g ref="char:EOLhyphen"/>full Matrimonie, to diſturb the ſame, is ſubiect to the paines of the Law.</item>
+                  <item>8 Item, who ſhall preſume to contract in the degrées prohibited (though he doe it ignorantly) beſides that the fruit of ſuch copulation may be iudged vn<g ref="char:EOLhyphen"/>lawfull, is alſo puniſhable at the Ordinaries diſcretion.</item>
+                  <item>9 Item, if any Miniſter ſhall conioyne any ſuch, or ſhall be preſent at ſuch contracts making, ought to be ſuſpended from his Miniſtrie for thrée yeares: and otherwiſe to be puniſhed according to the Lawes.</item>
+                  <item>10 Item, it is further ordeyned that no Parſon, Vicar, or Curat, do preache treat, or expound, of his owne voluntarie inuention, any matter of contro<g ref="char:EOLhyphen"/>uerſie in the Scriptures, if he be vnder the degrée of a Maiſter of Art, except he be licenſed by his Ordinary thereunto, but onely for the inſtruction of the people, reade the Homilies already ſet forth, and ſuch other forme of doctrine as ſhall be hereafter by authority publiſhed. And ſhall not innouate or alter any thing in the Church, or vſe any rite or ceremonie, which be not ſet forth by publique authoritie.</item>
+               </list>
+            </p>
+            <byline>Set foorth by the moſt reuerend Father in God, Mathew Archbiſhop of Canterbury, Primate of England, and Metropolitane.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON Printed for Thomas Adams.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
